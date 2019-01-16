@@ -3,7 +3,7 @@ entries:
   liberty-starter-user09:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-01-16T20:00:58.819812842Z
+    created: 2019-01-16T20:27:19.922048998Z
     description: A Helm chart for Kubernetes for a simple WAS Liberty app that uses
       a Derby database
     digest: 8e5033cf5a4ddb689883c0d1b9e433a4e1d5ec998d3048be133437667ad62cdd
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://Rick7099.github.io/app-modernization-legacy-jee-app/charts/liberty-starter-user09-1.0.0.tgz
     version: 1.0.0
-generated: 2019-01-16T20:00:58.818920808Z
+generated: 2019-01-16T20:27:19.92122749Z
